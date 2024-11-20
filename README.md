@@ -28,9 +28,6 @@ A Python-based tool that downloads songs and playlists from Spotify as MP3 files
 
 1. **Clone the Repository**
 
-git clone https://github.com/yourusername/spotify-to-mp3.git
-cd spotify-to-mp3
-
 2. **Set Up Virtual Environment**
 
 # Windows
